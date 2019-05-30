@@ -1,0 +1,137 @@
+body {
+    margin: 100;
+    padding: 0;
+    font-family: roboto;
+    background-image: url(Fondo3.png);
+    background-repeat: repeat-y;
+}
+
+.navegacion {
+    background-color: #774BAB;
+    align-items: center;
+}
+
+.contexto{
+    margin-top: 100px;
+    height: 500px;
+    background-color: white;
+    align-items: center;
+}
+
+
+.imagen {
+    align-content: center;
+}
+
+.celular{
+    margin-top -100px;
+   
+    
+}
+
+.global {
+    padding: 27px;
+    align-content: center;
+    height: 50%;
+    width: 100%;
+    left: 0;
+    text-align: justify;
+}
+
+.contextual {
+    padding: 27px;
+    align-content: right;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    text-align: justify;
+}
+
+.nav a {
+    color: white;
+}
+
+.nav a:hover {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.navegacion img {
+    padding: 10px 0px 10px 50px;
+    width: 60%;
+    height: 20%;
+}
+
+.navegacion li {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.navegacion button {
+    background-color: white;
+    border-color: white;
+    font color:#774BAB
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.navegacion button:hover {
+    background-color: white;
+    border-color: white;
+    color:white;
+    border-radius: 40px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.contenido {
+    text-align: center;
+    color: white;
+}
+
+.contexto h2 {
+    margin-top: 150px;
+    text-align: center;
+     font-size: 45px;
+    font-weight: 300;
+    
+}
+
+.contenido h1 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: normal;
+}
+
+.contenido p {
+    text-align: left;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    line-height: normal;
+}
+
+.descargar button {
+    margin: 20px;
+    padding: px;
+    background-color: white;
+    border-radius: 30px;
+    font-weight: 300;
+    font-size: 30px;
+    width: 80%;
+    height: 100%;
+}
+
+.descargar button:hover {
+    background-color: white;
+    border-radius: 10px;
+    font-weight: 300;
+    font-size: 30px;
+    width: 80%;
+    height: 100%;
+}
